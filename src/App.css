@@ -42,6 +42,9 @@
   .bg {
     background-size: 45%;
   }
+  .invite-card {
+    margin-bottom: 16rem;
+  }
 }
 @media only screen and (max-width: 620px) {
   .bg {
