@@ -27,7 +27,7 @@ function InviteCard() {
         <p className="channel-description">
           Связь с менеджером: <strong>@bitx_support</strong>
         </p>
-          <Button className="channel-link" text="перейти на канал" link={link2} type="msg" />
+          <Button className="channel-link" text="перейти на канал" link={link1} type="msg" />
       </div>
     </div>
   );
